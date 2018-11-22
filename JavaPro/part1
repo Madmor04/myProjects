@@ -1,0 +1,13 @@
+OSI model;
+Protocol of transport- TCP(so slow), UTP(more fast), HTTP, HTTPS -> request - respons;
+Kreeptografing --- ???
+///////////////////////////////////////////////
+//  Hosting for aplication of Java EE:
+//  -Google App Engine;
+//  -Heroku;
+//  -Jelastie
+//  -Local host - Tomcat
+///////////////////////////////////////////////
+HTTP methods: .get(), .post(), .put()...;
+Wireshark --- ??? (interest)
+Restlet --- ???
