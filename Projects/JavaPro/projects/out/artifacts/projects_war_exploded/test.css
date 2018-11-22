@@ -1,0 +1,16 @@
+body {
+    background: greenyellow;
+}
+
+#h1 {
+    text-align: center;
+}
+
+#h1:hover {
+    background: tan;
+}
+
+#p:hover {
+    background: salmon;
+    font-size: 30px;
+}

@@ -1,0 +1,25 @@
+#h1 {
+    text-align: center;
+}
+
+* {
+    background: aquamarine;
+}
+
+#button {
+    background: green;
+    height: 50px;
+    width: 150px;
+    border-radius: 50px;
+}
+
+input {
+    margin-bottom: 15px;
+}
+
+#button:hover {
+    background: tan;
+}
+#form {
+    text-align: center;
+}

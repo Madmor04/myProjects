@@ -1,0 +1,22 @@
+h3 {
+    text-align: center;
+}
+
+body {
+    background: aquamarine;
+}
+
+#form {
+    text-align: center;
+}
+
+input {
+    margin-top: 10px;
+}
+
+#buttom {
+    height: 50px;
+    width: 150px;
+    border-radius: 50px;
+    background: bisque;
+}
